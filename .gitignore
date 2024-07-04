@@ -1,0 +1,26 @@
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.ipch
+*.opensdf
+*.ncb
+*.sdf
+*.sln
+*.vcxproj.*
+*.filters
+
+# Build artifacts
+[Bb]in/
+[Dd]ebug*/
+[Oo]bj/
+[Rr]elease*/
+
+# Other files
+*.log
+*.tlog
+*.lastbuildstate
+
